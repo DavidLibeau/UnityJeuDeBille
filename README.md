@@ -1,8 +1,8 @@
 # UnityJeuDeBille
 Very simple Unity marble game
 
-##Play
+## Play
 https://davidlibeau.github.io/UnityJeuDeBille/ExportWebPlayer/
 
-##Licence
+## Licence
 CC0
